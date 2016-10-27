@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[I AM FLAY]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-03-20T04:54:54-04:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Flay]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://yoursite.com/blog/2016/03/20/test/"/>
+    <updated>2016-03-20T04:34:03-04:00</updated>
+    <id>http://yoursite.com/blog/2016/03/20/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
